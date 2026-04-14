@@ -1,0 +1,1 @@
+SELECT * FROM `toysgroup14/04`.sales;
